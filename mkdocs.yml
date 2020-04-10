@@ -1,7 +1,7 @@
 site_name: Mycelium Network Documentation
 theme:
-  logo: images/logo.png
-  favicon: images/favicon.ico
+  logo: mkdocs/images/logo.png
+  favicon: mkdocs/images/favicon.ico
   name: material
   language: en
   features:
