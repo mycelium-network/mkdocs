@@ -1,0 +1,15 @@
+{
+    "short_name": "MyceliumDocs",
+    "name": "Mycelium-Network Documentation",
+    "description": "All information to setup and use Mycelium Network.",
+    "icons": [
+      {
+        "src": "/images/logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "scope": "/"
+  }
