@@ -8,6 +8,8 @@ This is based on the following: https://github.com/squidfunk/mkdocs-material
 Install mkdocs
 ```
 pip3 install mkdocs-material
+pip3 install mkdocs-awesome-pages-plugin
+pip3 install mkdocs-git-revision-date-localized-plugin
 ```
 Start the server:
 ```
